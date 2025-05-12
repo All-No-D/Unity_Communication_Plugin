@@ -1,0 +1,13 @@
+{
+  "name": "com.gaenodap.communication",
+  "description": "HTTP and WebSocket utilities for Unity projects.",
+  "version": "1.0.0",
+  "unity": "2024.1",
+  "displayName": "Gaenodap Communication",
+  "dependencies": {
+
+  },
+  "author": {
+    "name": "Gaenodap Team"
+  }
+}
